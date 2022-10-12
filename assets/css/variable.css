@@ -1,0 +1,12 @@
+:root {
+    --bs-primary: #9A9AB0;
+    --bs-primary-rgb: 154, 154, 176;
+
+    --bs-black: #11142D;
+    --bs-black-rgb: 17, 20, 45;
+
+    --bs-secondary: #00998C;
+    --bs-secondary-rgb: 0, 153, 140;
+
+    --btn-primary-color: #009BF9;
+}

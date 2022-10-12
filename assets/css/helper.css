@@ -1,0 +1,116 @@
+.container {
+    width: 100%;
+    max-width: 1232px;
+}
+
+.decoration-none {
+    text-decoration: none;
+}
+
+.color-blue {
+    color: #009BF9 !important;
+}
+
+.home-bg {
+
+    background: #EDF2F8;
+}
+
+.border-r {
+    border-radius: 24px !important;
+}
+
+.border-r-8 {
+    border-radius: 8px !important;
+}
+
+.box-shadow {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.mt-120 {
+    margin-top: 120px;
+}
+
+.icn {
+    width: 80px;
+    height: 80px;
+    background: #00CCBA;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icn i {
+    font-size: 36px;
+    color: white;
+}
+
+.w-h-88 {
+    width: 150px;
+    height: 150px;
+}
+
+.w-h-66 {
+    width: 64px;
+    height: 64px;
+}
+
+.ls-5 {
+    line-height: 125% !important;
+    letter-spacing: 0.005em;
+}
+
+.border-4px {
+    border-bottom: 4px solid #009BF9;
+}
+
+.journey-item-img img {
+    width: 100%;
+    height: 100%;
+    max-height: 88px;
+}
+
+.text-bound {
+
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.text-bound-5 {
+
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.portfolio-card .card-img {
+    width: 100%;
+    height: 527px;
+}
+
+.pb-220 {
+    padding-bottom: 620px;
+}
+
+.mt-420 {
+    margin-top: 520px;
+}
+
+.portfolio-card img {
+    height: 527px;
+    width: 100%;
+}
+
+.img-detail img {
+    width: 100%;
+    height: 892px;
+}
+
+.img-100 {
+    width: 100%;
+}
